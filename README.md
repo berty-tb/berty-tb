@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently studying engineering at Buenos Aires and learning C alongside other languages :)
+I'm currently studying engineering and learning C alongside other languages :)
 
 
 <!--
