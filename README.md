@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm currently studying engineering at Buenos Aires and learning C alongside other languages :)
+
 
 <!--
 **berty-tb/berty-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
