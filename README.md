@@ -2,11 +2,11 @@
 I'm currently studying sysytems engineering and learning multiple languages.
 I'll be using GitHub primarily for academic purposes but I also like learning new things in my free time that may require some sort of git interaction.
 
+<!--
 You can reach me via email at tomasbertella18@gmail.com or by my social media:
 - LinkedIn: https://www.linkedin.com/in/tom%C3%A1s-bertella/
 - Instagram: https://www.instagram.com/berty_tb/
 
-<!--
 **berty-tb/berty-tb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
