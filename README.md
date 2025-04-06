@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br>I'm currently studying sysytems engineering and learning multiple languages.<br>I'll be using GitHub primarily for academic purposes but I also like learning new things in my free time that may require some sort of git interaction.
+### Hi there 👋<br>I'm currently studying systems engineering and learning multiple languages.<br>I'll be using GitHub primarily for academic purposes but I also like learning new things in my free time that may require some sort of git interaction.
 
 
 ## 🌐 Socials:
